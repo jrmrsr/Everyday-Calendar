@@ -64,6 +64,7 @@ class App extends Component {
       if (this.state.daysPerMonth[i] < day) {
         dateRow.push(<Days date={""} key={this.state.months[i]+day.toString()}/>)
       } else {
+        // Days are keyed by the month+day, e.g. Apr24
         let dayId = this.state.months[i]+day.toString();
         daysOn[dayId]=false
         dateRow.push(<Days date={day} 
