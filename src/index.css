@@ -17,6 +17,7 @@ textarea {
   background-color: #f2f4fb;
   font-family: inherit;
   overflow: auto;
+  border: 2px solid black;
 }
 label {
   font-size: 0.75em;
@@ -115,9 +116,9 @@ textarea,
   width: 50px; 
   height: 28.87px;
   margin: 14.43px 0;
-  -webkit-transition: background-color 0.25s ease;
-  -ms-transition: background-color 0.25s ease;
-  transition: background-color 0.25s ease;
+  -webkit-transition: all 0.25s ease;
+  -ms-transition: all 0.25s ease;
+  transition: all 0.25s ease;
 }
 
 .hexagon:before,
@@ -140,6 +141,25 @@ textarea,
 
 .hexagon:after {
   bottom: -17.6777px;
+}
+.hexagon:hover {
+  transform: translateY(-4px);
+  -webkit-transform: translateY(- 4px);
+}
+#clear-progress-button {
+  margin: 0 0 0 33px;
+  padding: 0.75em;
+  border: 2px solid black;
+  background-color: #f2f4fb;
+  font-family: inherit;
+  -webkit-transition: all 0.25s ease;
+  -ms-transition: all 0.25s ease;
+  transition: all 0.25s ease;
+
+}
+#clear-progress-button:hover {
+  background-color: #64C7CC;
+  border: 4px solid black;
 }
 
 .hexagon-text {

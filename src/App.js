@@ -132,6 +132,13 @@ class App extends Component {
   onChange = (e) => {
     this.setState({ goal: e.target.value })
   }
+
+  clearProgress = () => {
+    this.setState({ 
+      goal: "",
+      dateOn: {}
+    })
+  }
   
   render() {
     const isMobile = this.state.isMobile
@@ -146,11 +153,12 @@ class App extends Component {
             <h3 className="sub-title"> > Created by <a href="https://jrmrsr.github.io/">Jose Rondon</a></h3>
           </header>
           <div className="col span-6-12">
-            <p className="title"> > Click on the date hexagons below to save your progress</p>
+            <p className="title"> > Click on the date hexagons below to save your progress, and add your goals in the textbox below</p>
             <Goal
             goal={this.state.goal}
             onChange={this.onChange}
             />
+            <button id="clear-progress-button"onClick={() => this.clearProgress()}>Clear Calendar</button>
           </div>
         </div>
 
