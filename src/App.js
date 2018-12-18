@@ -150,7 +150,7 @@ class App extends Component {
             <h2 className="title">The Every Day Calendar</h2>
             <h3 className="sub-title"> > Inspired by <a href="https://www.kickstarter.com/projects/simonegiertz/the-every-day-calendar">Simone Giertz's </a> 
             project and <a href="https://www.youtube.com/watch?v=-lpvy-xkSNA">video</a></h3>
-            <h3 className="sub-title"> > Created by <a href="https://jrmrsr.github.io/">Jose Rondon</a></h3>
+            <h3 className="sub-title"> > Created by <a href="https://jrmrsr.github.io/Portfolio">Jose Rondon</a></h3>
           </header>
           <div className="col span-6-12">
             <p className="title"> > Click on the date hexagons below to save your progress, and add your goals in the textbox below</p>
