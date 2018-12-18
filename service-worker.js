@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Everyday-Calendar/precache-manifest.65573fc600ba27462b8652303009f434.js"
+  "/Everyday-Calendar/precache-manifest.f84d5083f6b074259bae0f5af1a7cc26.js"
 );
 
 workbox.clientsClaim();

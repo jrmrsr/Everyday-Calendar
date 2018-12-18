@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/Everyday-Calendar/static/js/runtime~main.c81a8d0f.js"
   },
   {
-    "revision": "b18654957bc57e9f8eec",
-    "url": "/Everyday-Calendar/static/js/main.b1865495.chunk.js"
+    "revision": "4a4a6fe964f099102651",
+    "url": "/Everyday-Calendar/static/js/main.4a4a6fe9.chunk.js"
   },
   {
     "revision": "fd4896fb8da2be61bb4a",
     "url": "/Everyday-Calendar/static/js/1.fd4896fb.chunk.js"
   },
   {
-    "revision": "b18654957bc57e9f8eec",
+    "revision": "4a4a6fe964f099102651",
     "url": "/Everyday-Calendar/static/css/main.924e470e.chunk.css"
   },
   {
-    "revision": "45c509ef11c55e7d3e3d40be3a2a6765",
+    "revision": "dab0fb599be7a3e764bc265cef59909d",
     "url": "/Everyday-Calendar/index.html"
   }
 ];
