@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.711a6d51.chunk.css",
-  "main.js": "/static/js/main.1ca3258b.chunk.js",
-  "main.js.map": "/static/js/main.1ca3258b.chunk.js.map",
-  "static/js/1.fd4896fb.chunk.js": "/static/js/1.fd4896fb.chunk.js",
-  "static/js/1.fd4896fb.chunk.js.map": "/static/js/1.fd4896fb.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.711a6d51.chunk.css.map": "/static/css/main.711a6d51.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.edfd9d22d5d2c0cb5b2134dc4cc42dd6.js": "/precache-manifest.edfd9d22d5d2c0cb5b2134dc4cc42dd6.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/Everyday-Calendar/static/css/main.711a6d51.chunk.css",
+  "main.js": "/Everyday-Calendar/static/js/main.7b3a8c1a.chunk.js",
+  "main.js.map": "/Everyday-Calendar/static/js/main.7b3a8c1a.chunk.js.map",
+  "static/js/1.fd4896fb.chunk.js": "/Everyday-Calendar/static/js/1.fd4896fb.chunk.js",
+  "static/js/1.fd4896fb.chunk.js.map": "/Everyday-Calendar/static/js/1.fd4896fb.chunk.js.map",
+  "runtime~main.js": "/Everyday-Calendar/static/js/runtime~main.c81a8d0f.js",
+  "runtime~main.js.map": "/Everyday-Calendar/static/js/runtime~main.c81a8d0f.js.map",
+  "static/css/main.711a6d51.chunk.css.map": "/Everyday-Calendar/static/css/main.711a6d51.chunk.css.map",
+  "index.html": "/Everyday-Calendar/index.html",
+  "precache-manifest.e4c02d8242ac8765635ae975271c8e67.js": "/Everyday-Calendar/precache-manifest.e4c02d8242ac8765635ae975271c8e67.js",
+  "service-worker.js": "/Everyday-Calendar/service-worker.js"
 }
